@@ -19,8 +19,6 @@ The ease-out bounce function has been ported (also under BSD License) to JavaScr
 The license agreements are contained within the source code.
 
 
-(testing 123)
-
 ## License Agreement ##
 
 License: BSD 3-Clause License.
